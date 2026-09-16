@@ -47,10 +47,10 @@ export function LandingNavbar() {
             Sign In
           </Link>
           <Link
-            href="/dashboard"
+            href="/signup"
             className="rounded-full bg-white px-5 py-2.5 font-instrument text-sm font-semibold text-black hover:bg-slate-200 transition-colors"
           >
-            Dashboard
+            Sign Up Free
           </Link>
         </div>
       </div>
